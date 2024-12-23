@@ -1,6 +1,6 @@
 Welcome to a Music Webpage!
 
-🌐 Live Preview: https://solankikhushali.github.io/Portfolio_Website/
+🌐 Live Preview: (https://solankikhushali.github.io/Music_Player/)
 
 🛠️ Features:
 - Play and Pause functionality
